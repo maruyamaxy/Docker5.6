@@ -7,3 +7,5 @@
  - docker-compose exec web bash
 - Laravelインストールコマンド
  - composer create-project --prefer-dist laravel/laravel フォルダ名
+- docker実行でコケたら下記を行う
+ - docker desktopを再起動
